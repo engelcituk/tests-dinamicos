@@ -1,0 +1,150 @@
+{
+  "EURO": [
+    {
+      "item": 1,
+      "de": "EUR",
+      "a": "PERMISO 1"
+    },
+    {
+      "item": 2,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 3,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 4,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 5,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 6,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 7,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 8,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 9,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 10,
+      "de": "EUR",
+      "a": "PERMISO 2"
+    }
+  ],
+  "USD": [
+    {
+      "item": 11,
+      "de": "USD",
+      "a": "PERMISO 1"
+    },
+    {
+      "item": 12,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 13,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 14,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 15,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 16,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 17,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 18,
+      "de": "USD",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 19,
+      "de": "USD",
+      "a": "PERMISO 2"
+    }
+  ],
+  "MX": [
+    {
+      "item": 20,
+      "de": "MXN",
+      "a": "PERMISO 1"
+    },
+    {
+      "item": 21,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 22,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 23,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 24,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 25,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 26,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+      "item": 27,
+      "de": "MXN",
+      "a": "PERMISO 2"
+    },
+    {
+       "item": 28,
+       "de": "MXN",
+       "a": "PERMISO 2"
+     }
+    
+  ]
+  
+}
