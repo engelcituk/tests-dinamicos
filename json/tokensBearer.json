@@ -1,0 +1,26 @@
+{
+    "test": [
+      {
+        "item": 1,
+        "de": "EUR",
+        "a": "PERMISO 1"
+      }
+    ],
+    "staging": [
+      {
+        "item": 11,
+        "de": "USD",
+        "a": "PERMISO 1"
+      }
+    ],
+    "produccion": [
+      {
+        "item": 20,
+        "de": "MXN",
+        "a": "PERMISO 1"
+      }
+      
+    ]
+    
+  }
+  

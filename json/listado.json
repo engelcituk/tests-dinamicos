@@ -3,147 +3,142 @@
     {
       "item": 1,
       "de": "EUR",
-      "a": "PERMISO 1"
+      "a": "RUB"
     },
     {
       "item": 2,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "AUD"
     },
     {
       "item": 3,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "CAD"
     },
     {
       "item": 4,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "ARS"
     },
     {
       "item": 5,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "BRL"
     },
     {
       "item": 6,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "GBP"
     },
     {
       "item": 7,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "MXN"
     },
     {
       "item": 8,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "JPY"
     },
     {
       "item": 9,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "USD"
     },
     {
       "item": 10,
       "de": "EUR",
-      "a": "PERMISO 2"
+      "a": "RUB"
     }
   ],
   "USD": [
     {
       "item": 11,
       "de": "USD",
-      "a": "PERMISO 1"
+      "a": "AUD"
     },
     {
       "item": 12,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "CAD"
     },
     {
       "item": 13,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "ARS"
     },
     {
       "item": 14,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "BRL"
     },
     {
       "item": 15,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "GBP"
     },
     {
       "item": 16,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "MXN"
     },
     {
       "item": 17,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "JPY"
     },
     {
       "item": 18,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "EUR"
     },
     {
       "item": 19,
       "de": "USD",
-      "a": "PERMISO 2"
+      "a": "JPY"
     }
   ],
   "MX": [
     {
       "item": 20,
       "de": "MXN",
-      "a": "PERMISO 1"
+      "a": "RUB"
     },
     {
       "item": 21,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "AUD"
     },
     {
       "item": 22,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "CAD"
     },
     {
       "item": 23,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "ARS"
     },
     {
       "item": 24,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "BRL"
     },
     {
       "item": 25,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "GBP"
     },
     {
       "item": 26,
       "de": "MXN",
-      "a": "PERMISO 2"
+      "a": "JPY"
     },
     {
       "item": 27,
       "de": "MXN",
-      "a": "PERMISO 2"
-    },
-    {
-       "item": 28,
-       "de": "MXN",
-       "a": "PERMISO 2"
-     }
+      "a": "EUR"
+    }
     
   ]
   
