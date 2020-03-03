@@ -2,22 +2,22 @@
     "test": [
       {
         "item": 1,
-        "de": "EUR",
-        "a": "PERMISO 1"
+        "token": "yavhoEj4NVA1_Nkmn73w65yUfaz5OexAtrWTi60W7vBmMC7rLKg2HzdZM-sPAFPfRxg4u6Ypkp93fs4anBfVOQWyl3zKAIEXnUlYnxxxw3ZW-cEQbFgW7ymnWFY020YAtV6cX9xEvqac29s7kvMzxDrE9uPlEcYDtAsrjKKI3wAIVvfXOvR3UU49tzKeEtVEbWzVKfuZNxi6tRZROyOal8NMFhTk2MIihC3XO1id1Souy9fIj2wBOopQtffNagov4BV4VpP8LXu55h3ct8XDU3ijlJgZleuDKIY_qWYlGd2fbCFA86yXla2vEWO4Db9NZ91otUJ-t98xg79MAZNtUNOEvvHkU68mRDeGJI__XRjq05HdVoKpF_ZTgANOcbwO4LxE7f-xYEexi7ZH_Pu5yVjPqZXWF6tv34Vj0Y3dV88n_bGqrFaeHULtwJtb0BJKTg5ZcNYTWTLABCw8GD-1CywZ7kDqerUEQb1Rhd_z1BA",
+        "fecha": "2020-03-02"
       }
     ],
     "staging": [
       {
-        "item": 11,
-        "de": "USD",
-        "a": "PERMISO 1"
+        "item": 2,
+        "token": "yavhoEj4NVA1_Nkmn73w65yUfaz5OexAtrWTi60W7vBmMC7rLKg2HzdZM-sPAFPfRxg4u6Ypkp93fs4anBfVOQWyl3zKAIEXnUlYnxxxw3ZW-cEQbFgW7ymnWFY020YAtV6cX9xEvqac29s7kvMzxDrE9uPlEcYDtAsrjKKI3wAIVvfXOvR3UU49tzKeEtVEbWzVKfuZNxi6tRZROyOal8NMFhTk2MIihC3XO1id1Souy9fIj2wBOopQtffNagov4BV4VpP8LXu55h3ct8XDU3ijlJgZleuDKIY_qWYlGd2fbCFA86yXla2vEWO4Db9NZ91otUJ-t98xg79MAZNtUNOEvvHkU68mRDeGJI__XRjq05HdVoKpF_ZTgANOcbwO4LxE7f-xYEexi7ZH_Pu5yVjPqZXWF6tv34Vj0Y3dV88n_bGqrFaeHULtwJtb0BJKTg5ZcNYTWTLABCw8GD-1CywZ7kDqerUEQb1Rhd_z1BA",
+        "fecha": "2020-03-02"
       }
     ],
     "produccion": [
       {
-        "item": 20,
-        "de": "MXN",
-        "a": "PERMISO 1"
+        "item": 3,
+        "token": "yavhoEj4NVA1_Nkmn73w65yUfaz5OexAtrWTi60W7vBmMC7rLKg2HzdZM-sPAFPfRxg4u6Ypkp93fs4anBfVOQWyl3zKAIEXnUlYnxxxw3ZW-cEQbFgW7ymnWFY020YAtV6cX9xEvqac29s7kvMzxDrE9uPlEcYDtAsrjKKI3wAIVvfXOvR3UU49tzKeEtVEbWzVKfuZNxi6tRZROyOal8NMFhTk2MIihC3XO1id1Souy9fIj2wBOopQtffNagov4BV4VpP8LXu55h3ct8XDU3ijlJgZleuDKIY_qWYlGd2fbCFA86yXla2vEWO4Db9NZ91otUJ-t98xg79MAZNtUNOEvvHkU68mRDeGJI__XRjq05HdVoKpF_ZTgANOcbwO4LxE7f-xYEexi7ZH_Pu5yVjPqZXWF6tv34Vj0Y3dV88n_bGqrFaeHULtwJtb0BJKTg5ZcNYTWTLABCw8GD-1CywZ7kDqerUEQb1Rhd_z1BA",
+        "fecha": "2020-03-02"
       }
       
     ]

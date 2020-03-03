@@ -1,16 +1,5 @@
 
-generarListado();
 
-function generarListado(){
-    readJson().then( monedas => {
-        generarTabla(monedas.EURO);
-        generarTabla(monedas.USD);
-        generarTabla(monedas.MX);
-
-    }).catch( err=> {
-        console.log(err);
-    })
-}
 
 function readJson() {
     const url = '../json/listado.json';
@@ -26,11 +15,24 @@ function readJson() {
             return err;
         })
 }
+generarListado();
+
+function generarListado(){
+    document.getElementById("myBtn").disabled = true;
+    readJson().then( monedas => {
+        generarTabla(monedas.EURO);
+        generarTabla(monedas.USD);
+        generarTabla(monedas.MX);
+
+    }).catch( err=> {
+        console.log(err);
+    })
+}
 
  function generarTabla(monedas){
-    const listCoinsArray = [];
+    //const listCoinsArray = [];
     monedas.forEach(moneda => {
-        listCoinsArray.push({moneda});
+        //listCoinsArray.push({moneda});
         lstTr=`<tr>
                     <th scope="row">${moneda.de}</th>
                     <th >${moneda.a}</th>
