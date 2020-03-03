@@ -1,7 +1,7 @@
 
 
-
 function readJson() {
+    
     const url = '../json/listado.json';
    
     return fetch(url)
@@ -18,12 +18,13 @@ function readJson() {
 generarListado();
 
 function generarListado(){
+    $("#spanSpin").hide();
+
     document.getElementById("myBtn").disabled = true;
     readJson().then( monedas => {
         generarTabla(monedas.EURO);
         generarTabla(monedas.USD);
         generarTabla(monedas.MX);
-
     }).catch( err=> {
         console.log(err);
     })
